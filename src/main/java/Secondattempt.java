@@ -8,5 +8,9 @@ public class Secondattempt {
 		System.out.println("Hi there");
 
 	}
+	//from b1 branch
+	public void m1() {
+		System.out.println("from method1";)
+	}
 
 }
