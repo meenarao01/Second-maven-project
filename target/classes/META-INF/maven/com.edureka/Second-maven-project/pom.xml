@@ -4,4 +4,5 @@
   <artifactId>Second-maven-project</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>Secondproject</name>
+  <description>maven</description>
 </project>
